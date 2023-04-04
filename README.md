@@ -14,4 +14,4 @@ Project code is currently stored here without the necessary art assets, but a fu
 
 For now, this repository is an archive for the legacy code, and is not very portable. Still, it may be interesting to peruse in its current state.
 
-A deployed instance of this app can be found [here](https://binderlab.org/resources/valence_1_9_8). The game is best experienced on a full-fledged web browser; mobile support is currently limited.
+A deployed instance of this app can be found [here](https://binderlab.org/resources/valence_1_9_8). The game is best experienced on a full-fledged web browser; mobile support is currently limited. Note that this version of the app does not have a loader animation, so the screen may appear black for several seconds.
