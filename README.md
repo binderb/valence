@@ -4,7 +4,7 @@ Unity project featuring an interactive challenge where intro chemistry students 
 
 ## Background
 
-The initial version of this project was built in 2015, during my first year of university teaching. It was my first successful deployment of an independently-developed, interactive teaching tool to a live classroom environment. This version is the latest stable release, deployed in 2017.
+The initial version of this project was built in 2015, during my first year of university teaching. It was my first successful deployment of an independently-developed, interactive teaching tool within a live classroom environment. This version is the latest stable release, deployed in 2017.
 
 Project code is currently stored here without the necessary art assets, but a fully functional deployed version is available in my portfolio (see below!). I hope to return to this project someday to update it with modern sprite handling tools and better web integration.
 
