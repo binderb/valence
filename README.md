@@ -8,6 +8,8 @@ The initial version of this project was built in 2015, during my first year of u
 
 Project code is currently stored here without the necessary art assets, but a fully functional deployed version is available in my portfolio (see below!). I hope to return to this project someday to update it with modern sprite handling tools and better web integration.
 
+![The goal of Valence is to build molecules following basic rules of chemical bonding. Students are rewarded with background information on the molecules they create.](./readme/preview_valence.webp)
+
 ## Usage
 
 For now, this repository is an archive for the legacy code, and is not very portable. Still, it may be interesting to peruse in its current state.
