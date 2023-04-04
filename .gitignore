@@ -1,0 +1,25 @@
+# Folders
+/Builds
+/Builds_Mobile
+/Artwork
+/Assets/Resources
+/Assets/Standard Assets
+/Assets/Valence_Native/JPEG
+/Assets/Valence_Native/PNG
+/Assets/Valence_Native/SVG
+/Assets/Valence_Native/Fonts
+/Assets/Valence_Native/Packages
+/Assets/Gizmos
+/[Ll]ibrary
+/[Ll]ogs
+
+# Metadata
+*.csproj
+*.booproj
+*.sln
+*.pidb
+*.userprefs
+
+# Logs
+*.log
+
